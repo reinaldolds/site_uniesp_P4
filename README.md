@@ -39,4 +39,9 @@ Tipo de projeto: Acadêmico
 
 ![Texto Alternativo](https://github.com/reinaldolds/site_uniesp_P4/blob/main/public/prints/home-site.png
 )
-
+![Texto Alternativo](https://github.com/reinaldolds/site_uniesp_P4/blob/main/public/prints/dpoLgbt.png
+)
+![Texto Alternativo](https://github.com/reinaldolds/site_uniesp_P4/blob/main/public/prints/fac-site.png
+)
+![Texto Alternativo](https://github.com/reinaldolds/site_uniesp_P4/blob/main/public/prints/not-site.png
+)
