@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import axios from 'axios'
 import { Card, Col, Container, Row, CardImg } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
@@ -36,7 +36,7 @@ const Noticias = () => {
                                     </Card.Title>
                                     <Link
                                     to={`/visualiza-noticia/${noticia.id}`}
-                                    className='text-decoration-nonetext-primary'
+                                    className='text-decoration-none text-primary'
                                         >
                                         <small>Ler mais</small>
                                     </Link>
