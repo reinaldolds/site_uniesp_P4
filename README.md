@@ -37,6 +37,6 @@ Tipo de projeto: Acadêmico
 
 # Demonstração do Projeto
 
-![Texto Alternativo](https://github.com/reinaldolds/Aluno_Online/blob/main/src/main/resources/static/prints/printBDaluno.png
+![Texto Alternativo](https://github.com/reinaldolds/site_uniesp_P4/main/public/static/prints/home-site.png
 )
 
