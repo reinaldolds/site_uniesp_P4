@@ -1,19 +1,32 @@
 {
-    "noticias":[
+    "noticias": [
+
         {
-            "titulo": "Tecnologia avança com IA Generativa 2",
-            "texto": "Pesquisas em IA generativa impulsionam setores como saúde e entretenimento, trazendo novos desafios éticos e de regulamentação.",
-            "id": "1"
-            },
-            {
-            "id": "2",
-            "titulo": "Mercado financeiro fecha em alta",
-            "texto": "Bolsa de valores registra novo recorde de valorização com a recuperação econômica global."
-            },
-            {
-            "id": "3",
-            "titulo": "Cientistas descobrem exoplaneta habitável",
-            "texto": "Astrônomos identificam planeta fora do sistema solar com condições favoráveis para abrigar vida, reforçando buscas por sinais extraterrestres."
-            }
+        "id": "1",
+        "titulo": "Tecnologia avança com IA Generativa 2",
+        "texto": "Pesquisas em IA generativa impulsionam setores como saúde e entretenimento, trazendo novos desafios éticos e de regulamentação.",
+        "imagem": "https://scansource.com.br/wp-content/uploads/2024/02/O-Futuro-da-IA-Generativa.jpg",
+        "imagemGrande": "https://www.zabala.pt/wp-content/uploads/2023/11/Inteligencia-artificial-e-consultoria-1200x675.jpg",
+        "textoCompleto": "A Inteligência Artificial (IA) generativa está revolucionando diversos setores, desde a saúde até o entretenimento. Com avanços significativos, essa tecnologia permite a criação de conteúdos originais, como textos, imagens e músicas, por meio de algoritmos complexos. No entanto, esses avanços também trazem à tona questões éticas e de regulamentação que precisam ser cuidadosamente consideradas para garantir um uso responsável e seguro da IA."
+        },
+        {
+        "id": "2",
+        "titulo": "Mercado financeiro fecha em alta",
+        "texto": "Bolsa de valores registra novo recorde de valorização com a recuperação econômica global.",
+        "imagem": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-2.jpg?fit=900%2C600&quality=50&strip=all",
+        "imagemGrande":"https://monomousumi.com/wp-content/uploads/29525db076bcc42505a356e55dbe94f38b28530b_getty-stock-market-data.jpg",
+        "textoCompleto": "O mercado financeiro encerrou o dia com uma alta significativa, impulsionada pela recuperação econômica global. A bolsa de valores atingiu um novo recorde de valorização, refletindo a confiança dos investidores na estabilidade e crescimento das economias ao redor do mundo. Especialistas acreditam que essa tendência positiva pode continuar, dependendo de fatores como políticas monetárias e indicadores econômicos futuros."
+        },
+        {
+        "id": "3",
+        "titulo": "Cientistas descobrem exoplaneta habitável",
+        "texto": "Astrônomos identificam planeta fora do sistema solar com condições favoráveis para abrigar vida, reforçando buscas por sinais extraterrestres.",
+        "imagem": "https://tm.ibxk.com.br///2023/05/22/22115359802119.jpg?ims=1280x605",
+        "imagemGrande": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/PlanetaSH%283%29.jpg/800px-PlanetaSH%283%29.jpg",
+        "textoCompleto": "Uma equipe de astrônomos anunciou a descoberta de um exoplaneta que apresenta condições favoráveis para a vida, localizado fora do nosso sistema solar. Este planeta, que orbita uma estrela semelhante ao Sol, possui temperaturas e atmosferas que podem sustentar água líquida, um dos principais ingredientes para a vida como conhecemos. A descoberta reforça as buscas por sinais de vida extraterrestre e abre novas possibilidades para a exploração espacial."
+        }
+
     ]
+
+
 }
